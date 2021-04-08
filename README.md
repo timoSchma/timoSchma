@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there, I am Timo Schmalz 👋
+
+- 🔭 I’m currently studying at [Karlsruhe Institute of Technology](https://www.kit.edu) 🇩🇪
+- 🌱 I’m currently learning Reinforcement Learning, Simulation and Machine Learning
+- 💬 Ask me about anything related to semiconductor manufacturing, machine learning and music
+
+<a href="https://github.com/timoSchma">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoSchma&layout=compact&count_private=true&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css"/> 
+</a>
+<a href="https://github.com/ingambe">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=timoSchma&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true"/> 
+</a>
+
 
 <!--
 **timoSchma/timoSchma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
