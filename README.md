@@ -8,7 +8,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoSchma&layout=compact&count_private=true&hide_border=true&langs_count=10&hide=tex,css"/> 
 </a>
 <a href="https://github.com/timoSchma">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=timoSchma&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true"/> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=timoSchma&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues&include_all_commits=true"/> 
 </a>
 
 
