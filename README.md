@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying at [Karlsruhe Institute of Technology](https://www.kit.edu) 🇩🇪
 - 🌱 I’m currently learning Reinforcement Learning, Simulation and Machine Learning
-- 💬 Ask me about anything related to semiconductor manufacturing, machine learning and music
+- 💬 Ask me about anything related to semiconductor manufacturing, machine learning and guitar playing 🎸
 
 <a href="https://github.com/timoSchma">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoSchma&layout=compact&count_private=true&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css"/> 
