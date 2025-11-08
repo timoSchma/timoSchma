@@ -1,6 +1,6 @@
 ### Hi there, I am Timo Schmalz 👋
 
-- 🔭 I’m currently working as a quality enginner at Bosch Sensortec [Karlsruhe Institute of Technology]([https://www.bosch-sensortec.com/]) 🇩🇪
+- 🔭 I’m currently working as a quality enginner at [Bosch Sensortec]([https://www.bosch-sensortec.com/]) 🇩🇪
 - 🌱 I’m interested in Reinforcement Learning, Simulation and Machine Learning and Data Science in general.
 - 💬 Ask me about anything related to semiconductor manufacturing, machine learning and guitar playing 🎸
 
